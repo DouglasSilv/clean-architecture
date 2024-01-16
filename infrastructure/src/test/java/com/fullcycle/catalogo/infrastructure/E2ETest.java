@@ -1,4 +1,4 @@
-package com.fullcycle.catalogo;
+package com.fullcycle.catalogo.infrastructure;
 
 import com.fullcycle.catalogo.infrastructure.configuration.WebServerConfig;
 import org.junit.jupiter.api.Tag;
